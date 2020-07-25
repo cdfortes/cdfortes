@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on project with reactjs
+- 🌱 I’m currently learning NestJS
+
 <!--
 **cdfortes/cdfortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
