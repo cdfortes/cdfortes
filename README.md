@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a project with reactjs
-- 🌱 I’m currently learning NextJS and Strapi
+- 🌱 I’m learning NextJS and Strapi
 
 <!--
 **cdfortes/cdfortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
