@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on project with reactjs
+- 🔭 I’m currently working on a project with reactjs
 - 🌱 I’m currently learning NextJS and Strapi
 
 <!--
