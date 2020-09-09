@@ -6,7 +6,7 @@ My name is Carlos Fortes from [Cabo Verde](https://duckduckgo.com/?t=lm&q=cabo+v
 - 🌱 I’m learning NextJS and Strapi (side project)
 
 
-In my free time I like to have fun with my child (😄),  to watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
+In my free time I like to have fun with my child (😄),  to watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚) and to listen to music (🎵).
 
 - 📫 How to reach me:
 
