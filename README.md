@@ -4,6 +4,7 @@ My name is Carlos Fortes from [Cabo Verde](https://duckduckgo.com/?t=lm&q=cabo+v
 
 - 🔭 I’m currently working on a project with ReactJS (work)
 - 🌱 I’m learning NextJS and Strapi (side project)
+- 👯 I'm looking to collaborate on social impact projects
 
 
 In my free time I like to have fun with my child (😄),  to watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚) and to listen to music (🎵).
@@ -12,6 +13,8 @@ In my free time I like to have fun with my child (😄),  to watch soccer (⚽�
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cdfortes)](https://twitter.com/cdfortes) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-duarte-fortes-a71362101/)](https://www.linkedin.com/in/carlos-duarte-fortes-a71362101/)
+
+![Carlos Fortes github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=cdfortes&show_icons=true&hide_border=true&theme=buefy)
 
 <!--
 **cdfortes/cdfortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
