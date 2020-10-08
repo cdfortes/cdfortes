@@ -1,4 +1,4 @@
-### Hi there 👋! 😁
+### Hi there 👋👋🏾! 😁
 
 My name is Carlos Fortes from [Cabo Verde](https://duckduckgo.com/?t=lm&q=cabo+verde+mapa&atb=v224-1&ia=web&iaxm=about&iax=images) (🇨🇻) - I've been working as Developer (Backend, Frontend) since 2008 and currently (since 2016) at [UTIC](https://github.com/uticathon) - Finance Ministry of Cabo Verde where I'm working with Liferay, ReactJS and other stuff.
 
