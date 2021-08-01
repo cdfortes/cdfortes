@@ -7,7 +7,7 @@ My name is Carlos Fortes, I'm from [Cabo Verde](https://duckduckgo.com/?t=lm&q=c
 - 👯 I'm looking to collaborate on social impact projects
 
 
-In my free time I like to have fun with my child (😄),  to watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚) and to listen to music (🎵).
+In my free time I like to have fun with my children (😄),  to watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚) and to listen to music (🎵).
 
 - 📫 How to reach me:
 
