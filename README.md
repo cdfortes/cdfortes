@@ -1,20 +1,41 @@
-### Hi there 👋👋🏾! 😁
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-My name is Carlos Fortes, I'm from [Cabo Verde](https://duckduckgo.com/?t=lm&q=cabo+verde+mapa&atb=v224-1&ia=web&iaxm=about&iax=images) (🇨🇻) - I've been working as Developer (Backend, Frontend) since 2008 and currently (since 2016) at [UTIC](https://github.com/uticathon) - Finance Ministry of Cabo Verde where I'm working with Liferay, ReactJS and other stuff.
-
-Always looking for a new opportunity to learn! As a programmer, I'm in a constant search for better practices and also experimenting new things.
-
-- I’m currently working on a project with ReactJS (work)
-- I’m learning NextJS and Strapi (side project)
-- I'm looking to collaborate on social impact projects
-
-
-In my free time I like to have fun with my children (😄),  to watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚) and to listen to music (🎵).
-
-- 📫 How to reach me:
+# I'm Carlos Fortes
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cdfortes)](https://twitter.com/cdfortes) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-duarte-fortes-a71362101/)](https://www.linkedin.com/in/carlos-duarte-fortes-a71362101/)
+[![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cdfortes@gmail.com)](mailto:cdfortes@gmail.com)
+
+### Developer at UTIC - MF
+
+<img src="https://user-images.githubusercontent.com/8411016/128652040-b82b9afe-7fe4-4da0-9e85-ae3e0bf97778.gif" width="400" height="400" />
+
+Always looking for a new opportunity to learn! As a programmer, I'm in a constant search for better practices and also experimenting new things.
+
+## 🔧 Technologies and tools
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
+---
+## ❄️ Current Personal Projects:
+
+- Trips - website with Typescript, ReactJS - NextJS, Jest/React-Testing-Library, Leaflet/Mapbox and GraphCMS
+- Store - website with Typescript, ReactJS - NextJS and NotionAPI
+- An API for my country's postal services - Node.js, Express, Typescript, TypeORM, Postgres, Redis, Docker etc
+- Knowledge Sharing - Blog posts and Mentoring
+
+
+## 🌀 A little more about me:
+
+In my free time I like to have fun with my children (😄),  to watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚) and to listen to music (🎵).
+
+---
+> “He who is not courageous enough to take risks will accomplish nothing in life.”
+— Mohamad Ali
+
+---
+
+## 📈 Github Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cdfortes&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cdfortes&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cdfortes&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cdfortes&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cdfortes&theme=github_dark)
 
 ![My github stats](https://profile-counter.glitch.me/cdfortes/count.svg)
 
