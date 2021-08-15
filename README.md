@@ -8,7 +8,6 @@
 
 ### Developer at UTIC - MF
 
-<img src="https://user-images.githubusercontent.com/8411016/128652040-b82b9afe-7fe4-4da0-9e85-ae3e0bf97778.gif" width="400" height="400" />
 
 Always looking for a new opportunity to learn! As a programmer, I'm in a constant search for better practices and also experimenting new things.
 
