@@ -10,8 +10,6 @@
 Always looking for a new opportunity to learn! As a programmer, I'm in a constant search for better practices and also experimenting new things.
 
 
-
-
 ---
 
 
