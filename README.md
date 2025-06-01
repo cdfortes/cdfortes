@@ -8,8 +8,6 @@
 
 
 Always looking for a new opportunity to learn! As a programmer, I'm in a constant search for better practices and also experimenting new things.
-
-
 ---
 
 
@@ -21,7 +19,6 @@ In my free time I like to have fun with my children (😄),  to watch soccer (�
 ---
 > “He who is not courageous enough to take risks will accomplish nothing in life.”
 — Mohamad Ali
-
 ---
 
 ## 📈 Github Stats
