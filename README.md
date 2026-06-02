@@ -39,7 +39,7 @@
 
 ### 📌 Featured
 
-- **[liferay-pentest-lab](https://github.com/cdfortes)** — open-source security lab for Liferay: Docker Compose environments (CE 6.2–7.4), hands-on modules and CVE proof-of-concept scripts.
+
 - **[cdfortes.com](https://cdfortes.com)** — portfolio and projects.
 
 ### 🌀 A little more about me
